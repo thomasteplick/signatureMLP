@@ -48,5 +48,5 @@ phase and the MLP Training Parameters must be entered again.
 
 <b>Signature Recognition Test Results, 1 Hidden Layer, Hidden Layer Depth = 10</b>
 
-![image](https://github.com/thomasteplick/signatureMLP/assets/117768679/02cd682b-b285-4ed2-bc41-2c825300626a)
+![image](https://github.com/thomasteplick/signatureMLP/assets/117768679/3a3efb7f-02f2-4da5-b09d-4c568350a346)
 
