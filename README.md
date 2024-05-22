@@ -42,11 +42,11 @@ or over training with more examples than necessary may be detrimental to the MLP
 phase and the MLP Training Parameters must be entered again.
 </p>
 
-<b>Signature Recognition Learning Curve, MSE vs Epoch, 1 Hidden Layer, Hidden Layer Depth = 10</b>
+<b>Signature Recognition Learning Curve, MSE vs Epoch, 1 Hidden Layer, Hidden Layer Depth = 15</b>
 
 ![image](https://github.com/thomasteplick/signatureMLP/assets/117768679/4fef480e-7771-4e25-b196-eb4194c6f646)
 
-<b>Signature Recognition Test Results, 1 Hidden Layer, Hidden Layer Depth = 10</b>
+<b>Signature Recognition Test Results, 1 Hidden Layer, Hidden Layer Depth = 15</b>
 
 ![image](https://github.com/thomasteplick/signatureMLP/assets/117768679/3a3efb7f-02f2-4da5-b09d-4c568350a346)
 
