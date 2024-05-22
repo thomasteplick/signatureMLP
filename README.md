@@ -44,7 +44,7 @@ phase and the MLP Training Parameters must be entered again.
 
 <b>Signature Recognition Learning Curve, MSE vs Epoch, 1 Hidden Layer, Hidden Layer Depth = 10</b>
 
-![image](https://github.com/thomasteplick/signatureMLP/assets/117768679/c3853c6d-fdd2-4ed4-9ceb-e7f850c8e304)
+![image](https://github.com/thomasteplick/signatureMLP/assets/117768679/4fef480e-7771-4e25-b196-eb4194c6f646)
 
 <b>Signature Recognition Test Results, 1 Hidden Layer, Hidden Layer Depth = 10</b>
 
